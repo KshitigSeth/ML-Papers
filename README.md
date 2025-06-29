@@ -8,6 +8,7 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 | No. | Title | Author(s) | Folder |
 |-----|-------|-----------|---------|
 | 1. | A Few Useful Things to Know About Machine Learning | Pedro Domingos | [📂 Click](./01-useful-things-domingos/) |
+| 2. | Distilling the Knowledge in a Neural Network | Geoffrey Hinton, Oriol Vinyals, Jeff Dean | [📂 Click](./02-distillation-hinton/) |
 
 <!-- Add more entries -->
 
