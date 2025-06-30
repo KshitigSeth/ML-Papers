@@ -1,7 +1,7 @@
 
-# Summary: Distilling the Knowledge in a Neural Network
+# Distilling the Knowledge in a Neural Network
 **Authors**: Geoffrey Hinton, Oriol Vinyals, Jeff Dean  
-**Link**: [Arxiv](https://arxiv.org/abs/1503.02531)
+**Link**: [PDF](https://arxiv.org/pdf/1503.02531)
 
 ---
 
@@ -33,10 +33,7 @@ To address this, the authors introduce a **temperature (T)** to the softmax:
 - Training the distilled model uses the same temperature.
 - At deployment, the distilled model uses temperature = 1.
 
-Softmax with temperature:
-\[
-\text{softmax}(z_i / T) = \frac{e^{z_i / T}}{\sum_j e^{z_j / T}}
-\]
+softmax(z_i / T) = exp(z_i / T) / sum_j exp(z_j / T)
 
 ---
 
@@ -92,9 +89,7 @@ This approach helps concentrate model capacity on difficult distinctions and imp
 ### Bias Correction:
 Since the focus classes are oversampled during training, the model learns a biased decision boundary. To correct for this, the logit of the dustbin class is **adjusted post-training** based on the oversampling ratio:
 
-\[
-\text{logit adjustment} = \log\left(\frac{\text{Proportion in specialist}}{\text{Proportion in full dataset}}\right)
-\]
+logit_adjustment = log( Proportion_in_specialist / Proportion_in_full_dataset )
 
 This ensures that predictions from the specialist reflect the true class distribution at inference time.
 
