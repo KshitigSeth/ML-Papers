@@ -1,6 +1,6 @@
 # A Short Introduction to Boosting  
 **Authors**: Yoav Freund, Robert E. Schapire  
-**Link**: [PDF](https://arxiv.org/pdf/1503.02531)
+**Link**: [PDF](https://cseweb.ucsd.edu/~yfreund/papers/IntroToBoosting.pdf)
 
 ## Overview
 
