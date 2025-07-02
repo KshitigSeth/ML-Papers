@@ -10,6 +10,7 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 | 1. | A Few Useful Things to Know About Machine Learning | Pedro Domingos | [📂 Click](./01-useful-things-domingos/) |
 | 2. | Distilling the Knowledge in a Neural Network | Geoffrey Hinton, Oriol Vinyals, Jeff Dean | [📂 Click](./02-distillation-hinton/) |
 | 3. | A Short Introduction to Boosting | Yoav Freund,  Robert E. Schapire | [📂 Click](./03-boosting-freund/) |
+| 4. | Bagging Predictors | Leo Breiman | [📂 Click](./04-bagging-breiman/) |
 
 <!-- Add more entries -->
 
