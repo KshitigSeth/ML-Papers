@@ -15,6 +15,7 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 | 6. | A Tutorial on Support Vector Machines for Pattern Recognition | Christopher J.C. Burges | [📂 Click](./06-svm-pattern-recog-burges/) |
 | 7. | Support-Vector Networks | Corrina Cortes, Vladimir Vapnik | [📂 Click](./07-svm-cortes/) |
 | 8. | On the Optimality of the Simple Bayesian Classifier under Zero-One Loss | Pedro Domingos | [📂 Click](./08-naive-bayes-domingos/) |
+| 9. | Understanding the Difficulty of Training Deep Feedforward Neural Networks | Xavier Glorot, Yoshua Bengio | [📂 Click](./09-difficulty-deep-fnn-glorot/) |
 
 <!-- Add more entries -->
 
