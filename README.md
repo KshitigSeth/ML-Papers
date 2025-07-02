@@ -12,6 +12,7 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 | 3. | A Short Introduction to Boosting | Yoav Freund,  Robert E. Schapire | [📂 Click](./03-boosting-freund/) |
 | 4. | Bagging Predictors | Leo Breiman | [📂 Click](./04-bagging-breiman/) |
 | 5. | Random Forests | Leo Breiman | [📂 Click](./05-random-forests-breiman/) |
+| 6. | A Tutorial on Support Vector Machines for Pattern Recognition | Christopher J.C. Burges | [📂 Click](./06-svm-pattern-recog-burges/) |
 
 <!-- Add more entries -->
 
@@ -20,6 +21,8 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 Each paper gets its own folder with:
 - `summary.md`: Core insights, explanations, and thoughts
 - Code files (if applicable): Reproductions or related experiments
+
+Note: Gen AI has been used in some parts of the summary files to convert my notes into a well structured and formatted markdown file, and to contextualize some findings.
 
 ## Purpose
 
