@@ -13,6 +13,7 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 | 4. | Bagging Predictors | Leo Breiman | [📂 Click](./04-bagging-breiman/) |
 | 5. | Random Forests | Leo Breiman | [📂 Click](./05-random-forests-breiman/) |
 | 6. | A Tutorial on Support Vector Machines for Pattern Recognition | Christopher J.C. Burges | [📂 Click](./06-svm-pattern-recog-burges/) |
+| 7. | Support-Vector Networks | Corrina Cortes, Vladimir Vapnik | [📂 Click](./07-svm-cortes/) |
 
 <!-- Add more entries -->
 
