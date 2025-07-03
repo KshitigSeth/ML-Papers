@@ -17,6 +17,7 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 | 8. | On the Optimality of the Simple Bayesian Classifier under Zero-One Loss | Pedro Domingos | [📂 Click](./08-naive-bayes-domingos/) |
 | 9. | Understanding the Difficulty of Training Deep Feedforward Neural Networks | Xavier Glorot, Yoshua Bengio | [📂 Click](./09-difficulty-deep-fnn-glorot/) |
 | 10. | Rectified Linear Units Improve Restricted Boltzmann Machines | Vinod Nair, Geoffrey Hinton | [📂 Click](./10-relu-rbm-nair/) |
+| 11. | Understanding Deep Learning Requires Rethinking Generalization | Chiyuan Zhang, Samy Bengio, Moritz Hardt, Michael C. Mozer, Yoram Singer | [📂 Click](./11-rethinking-generalization-zhang/) |
 
 <!-- Add more entries -->
 
