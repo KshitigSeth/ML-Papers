@@ -20,6 +20,7 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 | 11. | Understanding Deep Learning Requires Rethinking Generalization | Chiyuan Zhang, Samy Bengio, Moritz Hardt, Michael C. Mozer, Yoram Singer | [📂 Click](./11-rethinking-generalization-zhang/) |
 | 12. | Dropout: A Simple Way to Prevent Neural Networks from Overfitting | Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov | [📂 Click](./12-dropout-srivastava/) |
 | 13. | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | Sergey Ioffe, Christian Szegedy | [📂 Click](./13-batch-normalization-ioffe/) |
+| 14. | Adam: A Method for Stochastic Optimization | Diederik P. Kingma, Jimmy Ba | [📂 Click](./14-adam-kingma/) |
 
 <!-- Add more entries -->
 
