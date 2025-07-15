@@ -24,6 +24,8 @@ This repository compiles my notes and summaries (plus reproductions, where possi
 | 15. | Attention Is All You Need | Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin | [📂 Click](./15-attention-vaswani/) |
 | 16. | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby | [📂 Click](./16-transformers-image-recog-dosovitskiy/) |
 
+More Coming Soon!
+
 <!-- Add more entries -->
 
 ## Structure
